@@ -5,3 +5,7 @@ $(".bt1").click(function(){
 $(".bt2").click(function(){
   $("#hh2").addClass("fade_style").animate({opacity:0.5}).fadeOut("slow").fadeIn("slow");
 })
+
+$(".bt4").click(function(){
+  $(".bt3").addClass("fade_style").fadeToggle();
+})
