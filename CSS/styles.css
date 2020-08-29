@@ -1,0 +1,12 @@
+body{
+  background-color:#bfdcae;
+  color:#cd0a0a;
+  font-size: 40px;
+  margin:100px;
+}
+.fade_style{
+  font-style: italic;
+  font-size: 100px;
+  color:blue;
+
+}
